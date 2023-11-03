@@ -18,27 +18,27 @@
 
 ## Screenshots
 ### Home page -   
-![Screenshot (26)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/588186be-afb7-462c-9680-351987b16201)
 
-### Team page -
-
-![Screenshot (27)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/56cd6eb1-b3c8-461b-9733-35a123e5cb55)
+![Screenshot (33)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/8d380d34-c03a-4a93-b90e-d12f59a24b1a)
 
 ### About us -
-![Screenshot (29)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/02065c88-ecf3-4576-9310-32df4c95c32f)
+![Screenshot (35)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/91c8e224-538e-443f-b93a-97b04df75255)
 
-![Screenshot (31)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/533e102a-4738-4c7d-bb52-cfdcf2b0f3da)
+### Images-
+![Screenshot (36)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/7c3b5cc6-4561-46b8-ba39-c8db1ac11c42)
 
-### Services -
-![Screenshot (30)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/69910fc0-d970-4b62-942c-b20a8e450bbe)
+### Services-
+
+![Screenshot (35)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/99671c1e-b2c5-4be1-bf5a-a00b065756cd)
 
 ### Contact us-
-![Screenshot (28)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/b43607d6-c2d3-4bd6-b0f7-cc3e64283a4c)
+
+![Screenshot (37)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/7528d846-7205-4ea0-8cb1-220cfafa83f6)
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Microsoft Azure
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScript
