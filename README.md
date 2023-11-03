@@ -12,9 +12,9 @@
 
 - Has various services for offering organic growth.
 - User is able to learn about growing crops organically.
-- Has the use of Azure Health bot.
-- Good responsive UI
-- Knowledgeable Website
+- Has the use of Azure Health bot and Azure static web apps.
+- Responsive UI
+
 
 ## Screenshots
 ### Home page -   
@@ -40,5 +40,5 @@
 - Microsoft Azure
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
+- Bootstrap
