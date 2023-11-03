@@ -6,7 +6,7 @@
 **Project Link** - https://salmon-rock-09a18ae00.4.azurestaticapps.net/
 
 
-**Demo Video link** -  
+**Demo Video link** -  https://youtu.be/Q4numHtC6Rw
 
 ## Features and Functionalities 😃
 
