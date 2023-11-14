@@ -3,7 +3,7 @@
 ### This is my project for the Microsoft Future Ready Talent program and it consists of a Website on the topic of Agriculture.
 
 
-**Project Link** - https://salmon-rock-09a18ae00.4.azurestaticapps.net/
+**Project Link** - https://icy-grass-0920a9410.4.azurestaticapps.net/
 
 
 **Demo Video link** -  https://youtu.be/Q4numHtC6Rw
