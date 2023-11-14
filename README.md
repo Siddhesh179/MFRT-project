@@ -1,4 +1,4 @@
-# Agriculture and cropping
+# Agriculture and cropping Website
 
 ### This is my project for the Microsoft Future Ready Talent program and it consists of a Website on the topic of Agriculture.
 
@@ -18,8 +18,9 @@ We have also provided a forum and marketplace for farmers to gain more informati
 
 ## Features and Functionalities 😃
 
-- Has various services for offering organic growth.
+- Various services for present for farmers offering organic growth.
 - User is able to learn about growing crops organically.
+- Knowledge of key concepts involved in natural farming.
 - Has the use of Azure Health bot and Azure static web apps.
 - Responsive UI
 
@@ -44,7 +45,9 @@ We have also provided a forum and marketplace for farmers to gain more informati
 
 ### Azure Services used 
 #### ( Azure Chatbot)
-![Screenshot (39)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/3fb18de5-0c00-4d91-b23e-05f3aa431cff)
+![Screenshot (42)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/90364030-95ab-4c2c-b878-30010ca64af9)
+
+![Screenshot (43)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/913b3971-9234-41dc-b02e-4020966ef4f5)
 
 #### (Azure Static Web Apps)
 ![Screenshot (40)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/22d2054d-8a76-4133-a076-b2e8cea7a6fd)
