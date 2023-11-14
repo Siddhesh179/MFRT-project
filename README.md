@@ -18,7 +18,7 @@ We have also provided a forum and marketplace for farmers to gain more informati
 
 ## Features and Functionalities 😃
 
-- Various services for present for farmers offering organic growth.
+- Various services are present for farmers offering organic growth.
 - User is able to learn about growing crops organically.
 - Knowledge of key concepts involved in natural farming.
 - Has the use of Azure Health bot and Azure static web apps.
