@@ -27,7 +27,8 @@ We have also provided a forum and marketplace for farmers to gain more informati
 ## Screenshots
 ### Home page -   
 
-![Screenshot (33)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/8d380d34-c03a-4a93-b90e-d12f59a24b1a)
+![Screenshot (44)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/08752ee3-4f51-4888-b64e-065d7918d151)
+
 
 ### About us -
 ![Screenshot (35)](https://github.com/Siddhesh179/MFRT-project/assets/140095599/91c8e224-538e-443f-b93a-97b04df75255)
